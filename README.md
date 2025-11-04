@@ -24,8 +24,8 @@ We built an AI-driven web application that detects complex social engineering at
 
 | Layer       | Technology                      |
 |-------------|--------------------------------|
-| Frontend    | React.js, Tailwind CSS, Axios  |
-| Backend     | Node.js, Express.js, Python (Flask), JWT  |
+| Frontend    | React.js, Tailwind CSS |
+| Backend     | Node.js, Express.js, Python (Flask) |
 | Database    | MongoDB                        |
 
 ## Novelty / Innovation  
