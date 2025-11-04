@@ -16,10 +16,9 @@ We built an AI-driven web application that detects complex social engineering at
   - 🟠 Orange: Medium threat  
   - 🔴 Red: High threat  
 - Popup notifications with sound alerts and concise NLP-generated explanations  
-- AI/NLP integration constituting around 25% of total functionality  
+- AI/NLP integration constituting around 25% of total functionality
 
-*Demo:*  
-Insert screenshots or link to demo video here
+
 
 ## Tech Stack  
 
